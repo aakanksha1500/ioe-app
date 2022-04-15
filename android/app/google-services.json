@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "477212624288",
+    "project_id": "hospital-security",
+    "storage_bucket": "hospital-security.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477212624288:android:2e99a3fa846d0c677590c5",
+        "android_client_info": {
+          "package_name": "com.ioe.hospitalsec.hospitalsec"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "477212624288-pqbi4b6kgfkc3268r31b9unaqs826ii0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZoOMoV9XyVfLhSvTeGHpwlyK3lCjws1o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "477212624288-pqbi4b6kgfkc3268r31b9unaqs826ii0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
